@@ -3,8 +3,9 @@
 * E-Mail: escape.outerspace@gmail.com
 * Telegram: @escapeout
 ## Навыки
-* HTML5, CSS3
 * JavaScript
+* HTML5, CSS3 (Adaptive / Responsive / BEM)
+* SASS, LESS
 * Gulp
 * Git, Github
 * Английский язык (B2)
